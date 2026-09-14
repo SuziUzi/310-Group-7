@@ -57,6 +57,7 @@ known gaps in what already works.
 - A [Supabase](https://supabase.com/) account and project
 
 ### Installation
+*For Windows and Mac*
 
 1. Clone the repository:
 
